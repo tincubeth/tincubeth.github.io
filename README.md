@@ -1,7 +1,24 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
+Tincube website
 =========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+Based on [Freelancer bootstrap theme](http://startbootstrap.com/template-overviews/freelancer/)
+
+## Setup
+
+Update index of RBEnv and Ruby build versions. Show list of Ruby versions available. Install latest version of Ruby with RBEnv. Install dependencies for Jekyll static site. Serve the website.
+```bash
+brew update && brew upgrade rbenv ruby-build
+rbenv install -l
+rbenv install 2.6.3
+rbenv shell 2.6.3
+rbenv global 2.6.3
+gem install github-pages
+gem install bundler -v 1.12
+bundle _1.12_ install
+bundle exec jekyll serve
+```
+
+View the website at http://127.0.0.1:4000/
 
 ## How to use
  - Place a image in `/img/portfolio/`
