@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2019-07-21
-img: circus.png
+img: code.png
 alt: image-alt
 project-date: July 2019
 client: Geth over Tor wih Slock.it Incubed
