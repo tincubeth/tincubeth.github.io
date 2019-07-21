@@ -42,8 +42,5 @@ description: The description of the project
 ## Demo
 View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
-
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
