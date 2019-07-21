@@ -1,9 +1,11 @@
 Tincube website
 =========================
 
-Based on [Freelancer bootstrap theme](http://startbootstrap.com/template-overviews/freelancer/)
+## Production
 
-## Setup
+View website at [https://tincubeth.org/](https://tincubeth.org/)
+
+## Setup in Development
 
 Update index of RBEnv and Ruby build versions. Show list of Ruby versions available. Install latest version of Ruby with RBEnv. Install dependencies for Jekyll static site. Serve the website.
 ```bash
@@ -40,6 +42,9 @@ description: The description of the project
 ```
 
 ## Demo
+
+Based on [Freelancer bootstrap theme](http://startbootstrap.com/template-overviews/freelancer/)
+
 View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
 
 ---------
