@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2019-07-21
+img: gallery.png
+alt: image-alt
+project-date: July 2019
+client: Geth over Tor wih Slock.it Incubed
+category: Tincubeth
+description: Docker container that when run starts an Slock.it Incubed Server on the Görli Testnet using the private key of a demo Ethereum account, a Geth (Go Ethereum) Blockchain Client Node on the Görli Testnet, and a Tor Network Service. The Docker container is configured so that the Incubed Service exposes port 9050 over TCP that is only accessible to the Tor Network Service as a Socks Proxy since we do not want to map any ports to the host machine.
+---
