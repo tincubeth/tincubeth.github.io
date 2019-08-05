@@ -1,7 +1,7 @@
 # Site settings
 title: TinCubETH
-email: your-email@domain.com
-url: https://example.github.io
+email: tincubeth@tincubeth.org
+url: https://tincubeth.org
 description: "reasonable privacy for Ethereum"
 keywords: "ethereum,privacy,incubed"
 skills: "INCUBED (IN3) with Tor (Onion Services) support."
