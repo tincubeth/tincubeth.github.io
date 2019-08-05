@@ -7,7 +7,7 @@
                         <h3>{{ site.footer.location }}</h3>
                         <p>
                             {% for adress in site.address %}
-                                {{ adress.line }} <br>
+                               {{ adress.line }} <br>
 		                    {% endfor %}
                         </p>
                     </div>
@@ -20,7 +20,12 @@
                             </li>
 		                    {% endfor %}
                         </ul>
+
+                        <a href="https://riot.im/app/#/room/#tincubeth:matrix.org">
+                            <img src="https://walleth.org/assets/img/matrix_logo.png" alt="matrix logo"/>
+                        </a>
                     </div>
+
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.credits }}</h3>
                         <p>{{ site.credits }}</p>
