@@ -1,8 +1,8 @@
 # Site settings
-title: TincubETH
-email: your-email@domain.com
-url: https://example.github.io
-description: "INCUBED (IN3) with Tor (Onion Services) support"
+title: TinCubETH
+email: tincubeth@tincubeth.org
+url: https://tincubeth.org
+description: "reasonable privacy for Ethereum"
 keywords: "ethereum,privacy,incubed"
 skills: "INCUBED (IN3) with Tor (Onion Services) support."
 
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/@mr_ligi
+    url: https://twitter.com/tincubeth
   # - title: facebook
   #   url:
   # - title: stack-overflow
@@ -48,7 +48,7 @@ social:
   # - title: bitbucket
   #   url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/tincubeth
+    url: https://github.com/tincubeth
 
 # Postal address (add as many lines as necessary)
 # address:
